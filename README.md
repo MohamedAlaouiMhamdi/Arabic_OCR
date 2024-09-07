@@ -52,10 +52,11 @@ The OCR model is designed to balance complexity and efficiency. The architecture
 
 ### Data Preparation
 
-The dataset is divided into training and testing sets, with the following structure:
+IFN/ENIT-database
 
-- **Training Data**: Contains a large number of images with corresponding labels. Each image typically represents a word or a line of text.
-- **Testing Data**: Used to evaluate the model's performance after training. This data is unseen during the training phase.
+<img width="562" alt="Screenshot 2024-09-07 114423" src="https://github.com/user-attachments/assets/1b10a94d-7817-491f-b65e-fe12a83e9066">
+
+<img width="483" alt="Screenshot 2024-09-07 113750" src="https://github.com/user-attachments/assets/e3403124-3e07-4d23-bde6-2e1dffe491c4">
 
 ### Training Process
 
