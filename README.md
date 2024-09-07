@@ -44,6 +44,11 @@ The OCR model is designed to balance complexity and efficiency. The architecture
 - **Convolutional Layers (CNN)**: These layers are responsible for extracting high-level features from the input images, such as edges, textures, and character shapes.
 - **Recurrent Layers (RNN/LSTM/GRU)**: Following the CNN layers, recurrent layers are employed to capture the sequential nature of the text, handling the varying lengths of text sequences.
 - **CTC (Connectionist Temporal Classification) Layer**: The final output layer uses CTC loss, which is ideal for sequence prediction tasks where the alignment between input and output is unknown.
+  
+<img width="578" alt="Screenshot 2024-09-07 113111" src="https://github.com/user-attachments/assets/f1d0fbe8-47db-4ccb-91ab-4c519105a5c4">
+
+<img width="614" alt="Screenshot 2024-09-07 113141" src="https://github.com/user-attachments/assets/450f1c9c-9906-417d-a09c-7362e3be6b32">
+
 
 ### Data Preparation
 
