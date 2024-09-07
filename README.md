@@ -71,6 +71,10 @@ The training process involves:
 
 The model's performance is evaluated based on its ability to correctly predict the text in the test images. Metrics such as accuracy, character error rate (CER), and word error rate (WER) are used to quantify performance.
 
+<img width="735" alt="Screenshot 2024-09-07 115353" src="https://github.com/user-attachments/assets/841dd8de-8f45-4e01-b011-c0f9ffee8897">
+
+<img width="601" alt="Screenshot 2024-09-07 115447" src="https://github.com/user-attachments/assets/e3376c0e-0f80-4426-9860-1427e0d99af9">
+
 ### GUI Implementation
 
 A graphical user interface (GUI) is developed using Tkinter to allow users to interact with the OCR model:
