@@ -58,6 +58,7 @@ IFN/ENIT-database
 
 <img width="483" alt="Screenshot 2024-09-07 113750" src="https://github.com/user-attachments/assets/e3403124-3e07-4d23-bde6-2e1dffe491c4">
 
+for more information check out the dataset pdf or visit this link : http://www.ifnenit.com/
 ### Training Process
 
 The training process involves:
