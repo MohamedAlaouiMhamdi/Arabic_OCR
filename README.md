@@ -66,14 +66,17 @@ The training process involves:
 1. **Batch Processing**: Training data is processed in batches to efficiently utilize computational resources.
 2. **Loss Calculation**: The CTC loss function is used, which allows the model to predict sequences of characters without needing a predefined alignment between input images and output text.
 3. **Optimization**: An optimizer like Adam or RMSprop is employed to minimize the loss, adjusting the weights of the network through backpropagation.
+<img width="735" alt="Screenshot 2024-09-07 115353" src="https://github.com/user-attachments/assets/841dd8de-8f45-4e01-b011-c0f9ffee8897">
+
+<img width="601" alt="Screenshot 2024-09-07 115447" src="https://github.com/user-attachments/assets/e3376c0e-0f80-4426-9860-1427e0d99af9">
 
 ### Evaluation
 
 The model's performance is evaluated based on its ability to correctly predict the text in the test images. Metrics such as accuracy, character error rate (CER), and word error rate (WER) are used to quantify performance.
 
-<img width="735" alt="Screenshot 2024-09-07 115353" src="https://github.com/user-attachments/assets/841dd8de-8f45-4e01-b011-c0f9ffee8897">
+<img width="369" alt="Screenshot 2024-09-07 120420" src="https://github.com/user-attachments/assets/ac2990ed-cec3-4dc3-a6ca-c2be6cc4a47a">
 
-<img width="601" alt="Screenshot 2024-09-07 115447" src="https://github.com/user-attachments/assets/e3376c0e-0f80-4426-9860-1427e0d99af9">
+<img width="306" alt="Screenshot 2024-09-07 120441" src="https://github.com/user-attachments/assets/e659467f-6b7f-445a-9b16-e318eb35ab5a">
 
 ### GUI Implementation
 
